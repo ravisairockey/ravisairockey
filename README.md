@@ -65,10 +65,6 @@ Here’s how I approach every game I play or design:
 + 🌱 Passionate about prototyping, storytelling, and pixel perfection
 ```
 
-```diff
-+ 👾 Aspiring Game Designer & Unity/Unreal Developer
-+ 💡 Freelance Graphic Designer & Level Designer
-+ 🌱 Passionate about prototyping, storytelling, and pixel perfection
 
 
 - 📄 [My Resume](https://resume-rsv.ct.ws/?i=1)  
