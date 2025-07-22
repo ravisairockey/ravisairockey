@@ -63,6 +63,9 @@ Here’s how I approach every game I play or design:
 + 👾 Aspiring Game Designer & Unity/Unreal Developer
 + 💡 Freelance Graphic Designer & Level Designer
 + 🌱 Passionate about prototyping, storytelling, and pixel perfection
++ 🔓 Learning Practical Ethical Hacking | HackTheBox Explorer
++ 🐳 Completed: Docker & Container Fundamentals
++ 🐧 Arch Linux (CachyOS) is my playground of choice
 ```
 
 
