@@ -140,6 +140,9 @@ Here’s how I approach every game I play or design:
   <a href="https://ravisairockey.github.io/Game-Proto/">
     <img src="https://img.shields.io/badge/-My%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/@ShadowReign7">
+  <img src=""/>
+  </a>
 </p>
 
 ---
