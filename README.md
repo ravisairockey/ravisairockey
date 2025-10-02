@@ -31,6 +31,10 @@
 
 ---
 
+### 🎥 My YouTube Channel
+[![Subscribe](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC9DQDyzVNUKGhMwNZ-mJg7Q?sub_confirmation=1)
+
+
 ### 🧠 My Design Mindset
 
 <p align="center">
