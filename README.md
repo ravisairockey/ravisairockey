@@ -1,180 +1,188 @@
 <!-- 🔥 Animated Banner Header -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWl0bXZjbW9yeDl6Njc1Ynp1eWtmOTB2ZHRlZjNoMnhpOWNxcnR0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AhhGtrpj5ZxGZER5yC/giphy.gif" alt="Gaming Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,100:7928CA&height=200&section=header&text=AI%20TOOLS%20IN%20TRAINING&fontSize=40&fontAlignY=35&desc=Game%20Dev%20→%20AI%20Engineer%20Transition&descAlignY=55" />
 </p>
 
-
-
-<!-- 🧠 Typing Text Animation -->
+<!-- 🧠 Dynamic Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=FF6EC7&width=500&lines=Hi%2C+I'm+Ravi+Sai+Vigneswara;Game+Designer+%26+Unity%2FUnreal+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=00D4AA&width=550&lines=Hi%2C+I'm+Ravi+Sai+Vigneswara;Local+LLM+Specialist+%7C+RTX+3060;Game+Dev+→+AI+Engineering+Pipeline;Building+Next-Gen+AI+Workflows" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <span style="display:inline-block; margin-right:32px; vertical-align:middle;">
-    <img
-      src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
-      width="350"
-      height="260"
-      alt="Game Dev Animation"
-    />
-  </span>
-  <span style="display:inline-block; vertical-align:middle;">
-    <img
-      src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F3ZWhtOTRoMWpqdmUwM3pxeXhxdTJsYThwdXU5c3ZhcnM1dmVuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BNvW3cNM9hr1e/giphy.gif"
-      width="360"
-      height="260"
-      alt="Gaming GIF"
-    />
-  </span>
+  <img src="https://img.shields.io/badge/🤖-AI%20Engineering%20in%20Progress-ff6ec7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🐧-Arch%20Linux%20Poweruser-1793d1?style=for-the-badge&logo=archlinux" />
+  <img src="https://img.shields.io/badge/🎮-Former%20Game%20Engineer-ff0080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠-Hireable%20%7C%20Open%20to%20AI%20Roles-brightgreen?style=for-the-badge" />
 </p>
 
----
-
-### 🎥 My YouTube Channel
-[![Subscribe](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC9DQDyzVNUKGhMwNZ-mJg7Q?sub_confirmation=1)
-
-
-### 🧠 My Design Mindset
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=600&height=40&lines=Great+design+starts+with+great+questions." alt="Design Mindset Typing SVG" />
-</p>
-
-💭 **I don’t just finish levels — I pause, observe, and question.**  
-Here’s how I approach every game I play or design:
-
-- ❓ *Why does this mechanic behave the way it does?*
-- 🎯 *What was the creative intention behind this moment?*
-- 🧠 *Why is the UI laid out like this? Does it guide the player intuitively?*
-- 🎮 *What am I feeling as a player — and was that the designer’s goal?*
-
-🔍 This mindset lets me reverse-engineer great design choices and transform them into thoughtful, engaging player experiences.
-
-> *“Design is not just what it looks like and feels like. Design is how it works.”* – Steve Jobs
-
----
-
-
-
-
-
----
-
-### 🎮 About Me
+<!-- 🎯 About Me Section -->
+## 🧩 Who Am I?
 
 ```diff
-+ 👾 Aspiring Game Designer & Unity/Unreal Developer
-+ 💡 Freelance Graphic Designer & Level Designer
-+ 🌱 Passionate about prototyping, storytelling, and pixel perfection
-+ 🔓 Learning Practical Ethical Hacking | HackTheBox Explorer
-+ 🐳 Completed: Docker & Container Fundamentals
-+ 🐧 Arch Linux (CachyOS) is my playground of choice
++ 🎯 20 y/o AI Engineer in Training — Karnataka, India
++ 🎓 BA Communication Design (Game Arts) — Jain University
++ 🔥 Transition: Game Design → AI Engineering via Self-Directed Learning
++ 🏠 Hardware Lab: RTX 3060 12GB | 32GB RAM | Arch Linux + GNOME
++ 🚀 Proven: Running 30B models locally | ComfyUI pipelines | GGUF workflows
+- Currently building: Python → PyTorch → LLM Fine-tuning pipeline
 ```
 
+### 🧠 Current Mission
 
+I'm not just learning AI — **I'm building it.**
 
-- 📄 [My Resume](https://resume-rsv.ct.ws/?i=1)  
-- 🌐 [My Portfolio](https://ravisairockey.github.io/Game-Proto/)  
-- 🧪 Designing new mechanics, level flow, and AR/VR spaces  
-- 🎨 Also love doing UI, concept design & branding
+- **Proven Infrastructure:** Full local AI stack running on RTX 3060 (30B Qwen with CPU offloading, GGUF models, ComfyUI pipelines)
+- **Active Learning:** Python mastery → PyTorch → Unsloth QLoRA fine-tuning
+- **Documented Journey:** All projects tracked, built, and deployed
+
+**The Gap I Bridge:** Technical game dev background + real AI tooling experience + relentless self-starter energy
 
 ---
 
-### 🧰 Tools of My Trade
+<!-- 🤖 AI Tech Stack -->
+## 🛠️ AI & ML Stack (In Progress)
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" title="Unity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="50" title="Unreal Engine" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" title="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" title="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" title="Blender" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" title="Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50" title="Illustrator" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VSCode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" width="50" title="Maya" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="50" title="Godot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" title="Jira" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="50" title="Slack" />
-  
+  <b>🟢 Active:</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python (Learning)" />
+  <img src="https://img.shields.io/badge/ComfyUI-Workflow%20Artist-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/GGUF-Best%20Practice-brightgreen?style=flat-square" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Arch Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker" />
 </p>
 
+<p align="center">
+  <b>🔜 Incoming:</b>
+  <img src="https://img.shields.io/badge/PyTorch-DL%20Framework-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Unsloth-QLoRA%20Training-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangGraph-Agent%20Orchestration-green?style=flat-square" />
+</p>
+
+### 💻 Development Environment
+
+| Spec | Details |
+|------|---------|
+| **OS** | Arch Linux + GNOME |
+| **GPU** | RTX 3060 12GB VRAM |
+| **RAM** | 32GB System |
+| **Local Capable** | 30B Qwen inference / 7B QLoRA fine-tuning |
 
 ---
 
-### 📊 GitHub Stats
+<!-- 🚀 Featured AI Projects -->
+## 🤖 Featured AI Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎨 ComfyUI Mastery</h3>
+      <p>Professional workflows: T2I, I2V, T2V, video pipelines</p>
+      <p><b>Stack:</b> ComfyUI | GGUF | Local Inference | RTX 3060</p>
+      <img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=flat" />
+    </td>
+    <td width="50%">
+      <h3>🔥 Mythology MoE Fine-tuning</h3>
+      <p>Self-directed Unsloth QLoRA project on 7B models. Agentic data pipeline + OpenRouter synthetic data.</p>
+      <p><b>Stack:</b> Python | LangGraph | Unsloth | TRL</p>
+      <img src="https://img.shields.io/badge/Status-Building-brightgreen?style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🧠 Local LLM Infrastructure</h3>
+      <p>30B parameter local inference with GGUF. Ollama + Llama.cpp workflows.</p>
+      <p><b>Hardware Validated:</b> RTX 3060 12GB + 32GB RAM offloading</p>
+      <img src="https://img.shields.io/badge/Status-Operational-blue?style=flat" />
+    </td>
+    <td width="50%">
+      <h3>🕵️ Agentic Workflow Automation</h3>
+      <p>Python scripts for: web scraping, data pipelines, API orchestration</p>
+      <p><b>Learning Focus:</b> LangGraph state machines, synthetic data generation</p>
+      <img src="https://img.shields.io/badge/Status-Python%20Fundamentals-purple?style=flat" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- 🎮 Past Work (Still Relevant) -->
+## 🎮 Design Background (Transferable Skills)
+
+> *"Game dev → AI engineering is a feature, not a bug."*
+
+My 3 years in game design armed me with **exactly** what AI systems need:
+
+- **Systems Thinking:** Complex interdependent systems (game mechanics = AI pipelines)
+- **Performance Optimization:** Real-time constraints and resource management
+- **Technical Art:** 3D pipelines, shaders, visual computing
+- **Tooling:** Unity C# scripting, Unreal Blueprints → Python/Node logic
+- **Completion:** Shipped Red Cells + Retro Portal (proven delivery)
+
+---
+
+<!-- 📊 Stats -->
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ravisairockey&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravisairockey&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ravisairockey&show_icons=true&theme=radical&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=ff6ec7&text_color=00d4aa&icon_color=7928ca" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravisairockey&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec7&text_color=00d4aa" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravisairockey&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravisairockey&theme=radical&hide_border=true&background=0d1117&ring=ff6ec7&fire=7928ca&currStreakLabel=00d4aa" />
 </div>
 
 ---
 
-### 🚀 Featured Projects
+<!-- 📚 Current Learning -->
+## 📚 90-Day Roadmap (Apr - Jul 2026)
 
+```
+WEEK 1-4:    ████████████████  Python Mastery (↑ ACTIVE)
+WEEK 5-8:    ░░░░░░░░░░░░░░░░  NumPy + Pandas + ML Basics
+WEEK 9-12:  ░░░░░░░░░░░░░░░░  PyTorch + HuggingFace
+ONGOING:    ▓▓▓▓▓▓▓▓░░░░░░░░  Local AI Infrastructure (MATURE)
+```
 
-- 🔴 **Red Cells** – Tactical combat game with tile-based mechanics *(WIP)*
-- 🧙‍♂️ **Retro Portal** – Retro Games Collection [Arcade](https://ravisairockey.github.io/Retro-Arcade/) 
-<!-- 🏛 **VR Museum** – Virtual heritage experience in Unreal Engine
-- 📱 **AR Business Card** – Interactive card to showcase portfolio in real life -->
-
-> Explore more: [My Portfolio](https://ravisairockey.github.io/Game-Proto/)
+**Current Focus:** Daily Python scripting → ComfyUI → Mythology MoE Pipeline
 
 ---
 
-## 🌐 Connect with Me
+<!-- 🌐 Connect -->
+## 🌐 Connect & Follow My Journey
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ravisai-vigneswara-113894191/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ravi-sai-vigneswara-113894191/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Watch%20My%20Transition-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:ravisairockey@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://www.youtube.com/channel/UC9DQDyzVNUKGhMwNZ-mJg7Q" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Gameplay%20%2F%20AI%20Demos-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" />
   </a>
-  <a href="https://ravisairockey.github.io/Game-Proto/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.youtube.com/@ShadowReign7" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <a href="https://resume-rsv.ct.ws/?i=1" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Full%20Background-FF4088?style=for-the-badge&logo=about.me" alt="Resume" />
   </a>
 </p>
 
 ---
 
-### ⚡ Fun Fact
-
-> “Designing games is like building dreams from logic.  
-> I don't just play — I craft worlds for others to explore.”
-
----
-
-### 🎧 Currently Grooving To On SPOTIFY💓
+<!-- 🎧 Spotify -->
+### 🎧 Fueling The Grind
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF24C5&width=500&lines=Listening+to+the+vibes...;Immersed+in+the+rhythm...;Fueled+by+beats+and+code!" alt="Listening Animation" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yeezrz2vgk3spx3hui3y3nlhw4&cover_image=true&theme=novatorem&show_offline=false&background_color=ff24c5&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/user/31yeezrz2vgk3spx3hui3y3nlhw4" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yeezrz2vgk3spx3hui3y3nlhw4&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=ff6ec7" alt="Spotify Now Playing" />
   </a>
 </p>
 
-<p align="center"><i>Fueling my design flow with every beat 💫🎮</i></p>
+---
 
-<!-- ✨ Animated Footer -->
+<!-- ✨ Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=120&section=footer" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,100:ff6ec7&height=120&section=footer" />
+</p>
+
+<p align="center">
+  <b>🚀 Building publicly. Learning aggressively. Shipping constantly.</b><br/>
+  <i>"From game worlds → AI models. Same construction, new universe."</i>
 </p>
