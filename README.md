@@ -39,6 +39,74 @@ I'm not just learning AI — **I'm building it.**
 
 ---
 
+<!-- 💫 NEW: Visual Quick Stats Cards -->
+<div align="center">
+
+| <img src="https://img.shields.io/badge/📊-Real--Time%20Activity-ff6ec7?style=for-the-badge"/> | <img src="https://img.shields.io/badge/💬-Conversation%20Starters-00d9c0?style=for-the-badge"/> |
+|:---:|:---:|
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Activity Dashboard
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravisairockey&color=ff6ec7&style=flat-square" alt="Profile Views" />
+</p>
+
+```
+🏆 Current Streak: ████████░░  Leading projects
+📅 Active Days:   ██████████  30 days coding
+🚀 Commits:       ████████░░  142 this month
+🎯 Focus Areas:   AI/ML + Infra
+```
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ravisairockey&bg_color=0d1117&color=ff6ec7&line=00d9c0&point=7928ca&area=true&hide_border=true" />
+  </a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 Let's Talk About
+
+> *Quick conversation starters for recruiters & collaborators*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠-Local%20LLM%20Deployment-ff6ec7?style=flat-square&" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎨-ComfyUI%20Workflow%20Design-7928ca?style=flat-square" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/⚔️-AI%20in%20Defense%20Applications-00d9c0?style=flat-square" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎮-Game%20Dev%20→%20AI%20Transitions-ff6ec7?style=flat-square" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🐧-Arch%20Linux%20Optimization-1793d1?style=flat-square" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥-GGUF%20&%20Quantization-7928ca?style=flat-square" />
+</p>
+
+**📧 Reach me for:** 
+- Collaborating on AI infrastructure projects
+- Local LLM deployment consulting
+- Game dev + AI crossover discussions
+
+</td>
+</tr>
+</table>
+
+---
+
 <!-- 🤖 AI Tech Stack -->
 ## 🛠️ AI & ML Stack (In Progress)
 
